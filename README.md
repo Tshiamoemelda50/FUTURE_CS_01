@@ -13,9 +13,13 @@ Scope of the Assessment
 The assessment was conducted within strict ethical boundaries.
 
 Allowed Activities:
+
 -Passive vulnerability scanning
+
 -Public page analysis
+
 -HTTP header inspection
+
 -Network exposure checks
 
 Restricted Activities:
