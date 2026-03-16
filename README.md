@@ -7,6 +7,7 @@ This repository contains a vulnerability assessment conducted on a publicly acce
 The objective of this assessment was to identify common security weaknesses through passive analysis techniques and provide recommendations to improve the website's security posture.
 
 Website Tested:
+
 https://juice-shop.herokuapp.com
 
 Scope of the Assessment
@@ -23,18 +24,25 @@ Allowed Activities:
 -Network exposure checks
 
 Restricted Activities:
+
 -Exploiting vulnerabilities
+
 -Brute force attacks
+
 -Denial-of-Service attacks
+
 -Any activity that could harm the system
 
 Tools Used
 Security analysis was performed using the following tools:
 
--Nmap: network scanning and service detection
--OWASP ZAP: passive vulnerability scanning
--Browser Developer Tools: HTTP header inspection
--Canva: vulnerability report design
+Nmap - network scanning and service detection
+
+OWASP ZAP - passive vulnerability scanning
+
+Browser Developer Tools - HTTP header inspection
+
+Canva - vulnerability report design
 
 Key Findings
 
@@ -53,9 +61,13 @@ Evidence
 Screenshots and scan results supporting the findings are included in the evidence folder within this repository.
 
 Evidence includes:
+
 -Website homepage screenshot
+
 -Nmap network scan results
+
 -OWASP ZAP vulnerability scan alerts
+
 -HTTP response header inspection
 
 Conclusion
